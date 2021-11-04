@@ -2,7 +2,7 @@
 <h1 align="center">
 eye-movement-project
 </h1>
-<p align="center">Movement of 2 eyes when the cursor move is detected.<p>
+<p align="center">Movement of 2 eyes in the same direction of a cursor movement.<p>
 
 ## Description
 
@@ -10,20 +10,17 @@ In this project, the goal is to move 2 eyes at the same time when a cursor start
 
 ## Getting Started
 
-### Dependencies
-
-* All recent browsers will run the HTML file
-* Not working on mobile devices
-
 ### Installing
 
-* Make sure all files are in the same directory
+* Fork the repo
+* Clone it to your local machine
 
 ### Executing program
-
+  
+* Make sure all files are in the same directory
 * Open the comand line 
 * Go to the directory whe the files are located
-* and simply open the html file with the command `open` for mac users 
+* and simply open the html file with the command `open` 
 ```
 open index.html
 ``` 
